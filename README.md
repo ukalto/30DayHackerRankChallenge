@@ -6,7 +6,7 @@ I just started learning Python and thought it would be interesting doing this ch
 
 > Day 1 :white_check_mark:
 
-> Day 2
+> Day 2 :white_check_mark:
 
 > Day 3
 
@@ -61,5 +61,3 @@ I just started learning Python and thought it would be interesting doing this ch
 > Day 28
 
 > Day 29
-
-> Day 30
