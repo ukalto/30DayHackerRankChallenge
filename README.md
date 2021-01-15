@@ -12,9 +12,9 @@ I just started learning Python and thought it would be interesting doing this ch
 
 > Day 4 :white_check_mark:
 
-> Day 5
+> Day 5 :white_check_mark:
 
-> Day 6
+> Day 6 :white_check_mark:
 
 > Day 7
 
