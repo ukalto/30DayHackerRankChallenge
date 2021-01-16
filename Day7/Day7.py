@@ -13,3 +13,6 @@ if __name__ == '__main__':
 
     for i in arr[::-1]:
         print(i, '', end='')
+
+# Second Solution
+#     print(*arr[::-1])
