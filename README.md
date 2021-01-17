@@ -18,7 +18,7 @@ I just started learning Python and thought it would be interesting doing this ch
 
 > Day 7 :white_check_mark:
 
-> Day 8
+> Day 8 :white_check_mark:
 
 > Day 9
 
