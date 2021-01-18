@@ -1,4 +1,4 @@
-# 30 Day HackerRank Challenge
+# 30 Day HackerRank Challenge in Python
 
 I just started learning Python and thought it would be interesting doing this challenge with a new language.
 
@@ -20,7 +20,7 @@ I just started learning Python and thought it would be interesting doing this ch
 
 > Day 8 :white_check_mark:
 
-> Day 9
+> Day 9 :white_check_mark:
 
 > Day 10
 
