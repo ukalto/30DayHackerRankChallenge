@@ -30,11 +30,11 @@ I just started learning Python and thought it would be interesting doing this ch
 
 > Day 13 :white_check_mark:
 
-> Day 14
+> Day 14 :white_check_mark:
 
-> Day 15
+> Day 15 :white_check_mark:
 
-> Day 16
+> Day 16 :white_check_mark:
 
 > Day 17
 
