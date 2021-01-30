@@ -1,3 +1,3 @@
-idea/
-.idea/*
+#idea folder
+.idea/
 .DS_Store
